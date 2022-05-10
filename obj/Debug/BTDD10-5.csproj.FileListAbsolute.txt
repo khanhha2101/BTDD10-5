@@ -1,0 +1,7 @@
+D:\Nam3HK2\C#\demo\BTDD10-5\BTDD10-5\bin\Debug\BTDD10-5.exe.config
+D:\Nam3HK2\C#\demo\BTDD10-5\BTDD10-5\bin\Debug\BTDD10-5.exe
+D:\Nam3HK2\C#\demo\BTDD10-5\BTDD10-5\bin\Debug\BTDD10-5.pdb
+D:\Nam3HK2\C#\demo\BTDD10-5\BTDD10-5\obj\Debug\BTDD10-5.csprojAssemblyReference.cache
+D:\Nam3HK2\C#\demo\BTDD10-5\BTDD10-5\obj\Debug\BTDD10-5.csproj.CoreCompileInputs.cache
+D:\Nam3HK2\C#\demo\BTDD10-5\BTDD10-5\obj\Debug\BTDD10-5.exe
+D:\Nam3HK2\C#\demo\BTDD10-5\BTDD10-5\obj\Debug\BTDD10-5.pdb
